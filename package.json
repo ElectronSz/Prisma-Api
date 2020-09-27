@@ -1,0 +1,10 @@
+{
+  "name": "prisma-api",
+  "version": "1.0.0",
+  "description": "A cool prisma api",
+  "main": "app.ts",
+  "repository": "https://github.com/ElectronSz/Prisma-Api.git",
+  "author": "ElectronSz",
+  "license": "MIT",
+  "private": true
+}
